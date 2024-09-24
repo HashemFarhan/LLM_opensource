@@ -2,7 +2,7 @@
 
 ## **_Overview_**
 
-#### This project aims to allow Maqsam's clients to explore and understand their data and harness the power of analytics through powerful LLM engines.
+#### This project aims to allow clients to explore and understand their data and harness the power of analytics through powerful LLM engines.
 
 #### The complexities of the underlying LLM processes is masked by a simple and user-friendly interface with unique sessions for each user.
 
